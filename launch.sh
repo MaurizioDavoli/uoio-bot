@@ -2,4 +2,4 @@
 
 export $(grep -v '^#' .env | xargs)
 
-python3 utility.py
+python3 app.py
