@@ -13,7 +13,7 @@ API_HASH_TDLIB=your-value
 BOT_TOKEN=your-value 
 ```
 
-### Change the launch.sh permission 
+### Change the launch.sh permissions
 
 ``` bash 
 chmod u + x launch.sh
